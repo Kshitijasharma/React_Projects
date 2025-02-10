@@ -1,5 +1,5 @@
 # React_Projects
-This repo consist of basic projects created using React + Vite
+This repo consist of basic project created using React + Vite
 
 Demo :
 
